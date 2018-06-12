@@ -1,0 +1,121 @@
+  FinalProject.Examination.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.Examinee.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.ExamineeRe.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.ExamineeSet.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.ExamineeView.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.grade_report.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.grade_reportRe.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.grade_reportSet.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.grade_reportView.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm1.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm2.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm3.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm4.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm5.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm6.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.MyForm7.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.SaveError.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.Options.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.Registry.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.RegistryRe.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.RegistrySet.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.RegistryView.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.Sign_In.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.Sign_in1.resources - Embedded, ContainedInManifestFile, 
+  FinalProject.UserSet.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly FinalProject, Version=0.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class FinalProject.MyForm3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm6: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.grade_reportView: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.SaveError: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm5: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.TextBox textBox1 : Public
+Class FinalProject.MyForm7: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Examination: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.ExamineeRe: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.ExamineeSet: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.ExamineeView: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.grade_reportRe: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.grade_reportSet: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.grade_report: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Examinee: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.RegistryView: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.RegistryRe: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.RegistrySet: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Registry: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Options: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Sign_In: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.UserSet: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.Sign_in1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class FinalProject.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

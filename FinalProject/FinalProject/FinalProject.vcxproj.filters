@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyForm.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm1.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm2.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm3.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm4.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm5.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm6.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="MyForm7.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="funtion.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Sign_In.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="UserSet.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Sign_in1.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Options.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamineeSet.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Examination.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Examinee.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamineeView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamineeRe.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="RegistryRe.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="RegistrySet.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="RegistryView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Registry.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="grade_report.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="grade_reportRe.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="grade_reportSet.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="grade_reportView.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveError.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyForm.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm1.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm2.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm3.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm4.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm5.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm6.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="MyForm7.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="funtion.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Sign_In.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="UserSet.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Sign_in1.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Options.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamineeSet.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Examination.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Examinee.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamineeView.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="ExamineeRe.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistryRe.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistrySet.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="RegistryView.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="Registry.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="grade_report.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="grade_reportRe.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="grade_reportSet.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="grade_reportView.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveError.h">
+      <Filter>原始程式檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MyForm.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm1.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm2.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm3.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm4.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm5.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm6.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyForm7.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign_In.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserSet.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign_in1.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamineeSet.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examination.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examinee.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamineeView.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExamineeRe.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistryRe.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrySet.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistryView.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registry.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grade_report.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grade_reportRe.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grade_reportSet.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grade_reportView.resx">
+      <Filter>原始程式檔</Filter>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaveError.resx">
+      <Filter>資源檔</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
